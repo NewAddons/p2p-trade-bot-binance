@@ -9,6 +9,7 @@ Tired of manually adjusting your Binance P2P prices to stay competitive? My cust
 - ⚖️ **Aggressiveness Control:** Set the bot's aggressiveness level from 1 to 10, determining how closely your prices match the leading offers.
 - 💰 **Price Adjustment Range:** Define your competition range between $50 and $200,000.
 - 🤖 **Automatic Execution:** Review the suggested prices, confirm, and the bot will automatically update your ads to remain the most competitive.
+- 🔧 Customizable Price Increment: Configure according to your preference to strategically overtake your competitor.
 
 ### 📋 **Requirements:**
 
