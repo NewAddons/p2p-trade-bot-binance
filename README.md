@@ -21,7 +21,7 @@ Stop losing out to competitors—let my bot do the work for you! Stay competitiv
 
 ## **VIDEO BOT WORKING CLICK IMAGE**
 
-[![Video Example](https://i.imgur.com/qizbV3I_d.webp?maxwidth=760&fidelity=grand)](https://www.youtube.com/watch?v=FTJnSAlwvXM)
+[![Video Example](https://i.imgur.com/qizbV3I_d.webp?maxwidth=760&fidelity=grand)](https://www.youtube.com/watch?v=qH6wxVSDtRg)
 
 
 # Robot Pricing Table
