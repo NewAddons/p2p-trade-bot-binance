@@ -19,6 +19,11 @@ Tired of manually adjusting your Binance P2P prices to stay competitive? My cust
 
 Stop losing out to competitors—let my bot do the work for you! Stay competitive, save time, and maximize your profits with automated price adjustments.
 
+## **VIDEO BOT WORKING CLICK IMAGE**
+
+[![Video Example](https://i.imgur.com/qizbV3I_d.webp?maxwidth=760&fidelity=grand)](https://www.youtube.com/watch?v=FTJnSAlwvXM)
+
+
 # Robot Pricing Table
 
 ## Available Plans
