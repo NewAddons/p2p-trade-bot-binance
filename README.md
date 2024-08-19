@@ -16,8 +16,6 @@ Tired of manually adjusting your Binance P2P prices to stay competitive? My cust
 - 🔑 **Binance API:** An active Binance API is required to connect the bot.
 - 🛡️ **P2P Merchant Account:** Ensure your Binance account is set up for P2P trading.
 
-⚠️ Important Notice: The bot will not skip your competitors; it will only copy their prices.
-
 Stop losing out to competitors—let my bot do the work for you! Stay competitive, save time, and maximize your profits with automated price adjustments.
 
 ## **VIDEO BOT WORKING CLICK IMAGE**
