@@ -7,7 +7,6 @@ Tired of manually adjusting your Binance P2P prices to stay competitive? My cust
 - 🔍 **Real-Time Price Monitoring:** The bot continuously scans and collects prices from the top 10 P2P offers on Binance.
 - 🎯 **Aggressiveness Competition:** Choose to compete with any offer from the 1st to the 6th rank. determining how closely your prices match the leading offers.
 - 💰 **Price Adjustment Range:** Define your competition range between $50 and $200,000.
-- 🤖 **Automatic Execution:** Review the suggested prices, confirm, and the bot will automatically update your ads to remain the most competitive.
 - 🔧 **Customizable Price Increment:** Configure according to your preference to strategically overtake your competitor.
 
 ⚠️ The BOT only tracks Verified P2Ps exclusively, the bot does not collect prices from unverified offers. ⚠️
