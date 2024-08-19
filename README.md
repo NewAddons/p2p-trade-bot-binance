@@ -16,6 +16,20 @@ Tired of manually adjusting your Binance P2P prices to stay competitive? My cust
 - 🔑 **Binance API:** An active Binance API is required to connect the bot.
 - 🛡️ **P2P Merchant Account:** Ensure your Binance account is set up for P2P trading.
 
+- ### ⚙️ **Key Features:**
+
+You can customize the following settings:
+
+- **Ad Management:** Add, edit, or delete ads directly from the bot's menu.
+- **Offer Activation:** Toggle your ads on or off depending on your strategy.
+- **Increment Configuration:** Set how much to undercut or overtake your competitors' prices.
+
+- ### 🔄 **Updating Prices:**
+
+The bot automatically updates your P2P ads every 10 seconds, adjusting the prices based on the competition level and increment settings you've configured.
+
+
+
 Stop losing out to competitors—let my bot do the work for you! Stay competitive, save time, and maximize your profits with automated price adjustments.
 
 ## **VIDEO BOT WORKING CLICK IMAGE**
