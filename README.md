@@ -11,6 +11,8 @@ Tired of manually adjusting your Binance P2P prices to stay competitive? My cust
 - 🤖 **Automatic Execution:** Review the suggested prices, confirm, and the bot will automatically update your ads to remain the most competitive.
 - 🔧 **Customizable Price Increment:** Configure according to your preference to strategically overtake your competitor.
 
+⚠️ The BOT only tracks Verified P2Ps exclusively, the bot does not collect prices from unverified offers. ⚠️
+
 ### 📋 **Requirements:**
 
 - 🔑 **Binance API:** An active Binance API is required to connect the bot.
