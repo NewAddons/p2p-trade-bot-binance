@@ -29,9 +29,6 @@ You can customize the following settings:
 The bot automatically updates your P2P ads every 10 seconds, adjusting the prices based on the competition level and increment settings you've configured.
 
 
-
-Stop losing out to competitors—let my bot do the work for you! Stay competitive, save time, and maximize your profits with automated price adjustments.
-
 ## **VIDEO BOT WORKING CLICK IMAGE**
 
 [![Video Example](https://i.imgur.com/qizbV3I_d.webp?maxwidth=760&fidelity=grand)](https://www.youtube.com/watch?v=qH6wxVSDtRg)
