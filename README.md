@@ -30,7 +30,7 @@ The bot automatically updates your P2P ads every 10 seconds, adjusting the price
 
 ## **VIDEO BOT WORKING CLICK IMAGE**
 
-[![Video Example](https://i.imgur.com/qizbV3I_d.webp?maxwidth=760&fidelity=grand)](https://www.youtube.com/watch?v=k9FuoyorWGQ)
+[![Video Example](https://i.imgur.com/qizbV3I_d.webp?maxwidth=760&fidelity=grand)](https://www.youtube.com/watch?v=KBU8Xn8VIMw)
 
 
 # Robot Pricing Table
