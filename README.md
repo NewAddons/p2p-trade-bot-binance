@@ -54,4 +54,4 @@ The bot automatically updates your P2P ads every 10 seconds, adjusting the price
 - **No FIAT Currency Changes**: After purchase, the selected FIAT currency cannot be changed. If you wish to use a different FIAT currency, a new purchase will be required.
 
 
-@Telegram: https://t.me/tvsenceus
+@Telegram: https://t.me/WilliamTechGift
