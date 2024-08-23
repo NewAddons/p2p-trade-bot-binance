@@ -7,7 +7,7 @@ Tired of manually adjusting your Binance P2P prices to stay competitive? My cust
 - 🔍 **Real-Time Price Monitoring:** The bot continuously scans and collects prices from the top 10 P2P offers on Binance.
 - 🎯 **Aggressiveness Competition:** Choose to compete with any offer from the 1st to the 6th rank. determining how closely your prices match the leading offers.
 - 💰 **Price Adjustment Range:** Define your competition range between $50 and $200,000.
-- 🔧 **Customizable Price Increment:** Configure according to your preference to strategically overtake your competitor.
+- 🔧 **Customizable Price Increment:** Set how much to undercut or overtake your competitors' prices.
 - ⚠️ **Verified P2P Tracking:** The bot only tracks prices from Verified P2Ps, excluding unverified offers.
 - 🔄 **Offer Activation:** Toggle your ads on or off depending on your strategy.
 - 📈 **Increment Configuration:** Set how much to undercut or overtake your competitors' prices.
