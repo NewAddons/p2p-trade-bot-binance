@@ -9,6 +9,8 @@ Tired of manually adjusting your Binance P2P prices to stay competitive? My cust
 - 💰 **Price Adjustment Range:** Define your competition range between $50 and $200,000.
 - 🔧 **Customizable Price Increment:** Configure according to your preference to strategically overtake your competitor.
 - ⚠️ **Verified P2P Tracking:** The bot only tracks prices from Verified P2Ps, excluding unverified offers.
+- 🔄 **Offer Activation:** Toggle your ads on or off depending on your strategy.
+- 📈 **Increment Configuration:** Set how much to undercut or overtake your competitors' prices.
 
 ### 📋 **Requirements:**
 
