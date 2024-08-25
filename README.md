@@ -15,7 +15,7 @@ Tired of manually adjusting your Binance P2P prices to stay competitive? My cust
 ### 📋 **Requirements:**
 
 - 🔑 **Binance API:** An active Binance API is required to connect the bot.
-- 🛡️ **P2P Merchant Account:** Ensure your Binance account is set up for P2P trading.
+- 🛡️ **P2P Merchant Verified Account:** Ensure your Binance account is set up for P2P trading with Merchant Verified. 
 
 - ### ⚙️ **Key Features:**
 
