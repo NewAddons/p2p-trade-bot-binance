@@ -49,9 +49,4 @@ The bot automatically updates your P2P ads every 10 seconds, adjusting the price
 - **3 Months Guaranteed Support** against any issues that may occur during this period.
 - **Extended Support up to 1 Year** in case of API updates.
 
-## Important Notes
-
-- **No FIAT Currency Changes**: After purchase, the selected FIAT currency cannot be changed. If you wish to use a different FIAT currency, a new purchase will be required.
-
-
 @Telegram: https://t.me/WilliamP2P
