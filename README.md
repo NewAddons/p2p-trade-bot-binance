@@ -1,4 +1,4 @@
-# 🤖 P2P Trade Bot Price for Binance
+# 🤖 Binance P2P Bot
 
 Tired of manually adjusting your Binance P2P prices to stay competitive? My custom-built Binance P2P Bot automates the process, ensuring you stay ahead of the competition with ease.
 
